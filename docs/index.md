@@ -8,7 +8,7 @@ hero:
   tagline: "博学笃志 切问近思"
   actions:
     - theme: brand
-      text: 入职流程
+      text: 入职须知
       link: /新老师入职须知/入职流程
     - theme: brand
       text: 中考相关
