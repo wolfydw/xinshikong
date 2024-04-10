@@ -5,14 +5,14 @@ layout: home
 hero:
   name: "新时空教师学习平台"
   text: ""
-  tagline: ""
+  tagline: "博学笃志 切问近思"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 入职流程
+      link: /新老师入职须知/入职流程
+    - theme: brand
+      text: 中考相关
+      link: /宜春中考相关/宜春中考相关数据
 
 features:
   - title: 知识
