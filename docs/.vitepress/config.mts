@@ -8,7 +8,7 @@ export default defineConfig({
 
   title: "新时空教师学习平台",
   description: "",
-  base: '/xinshikong/',
+  base: '/',
   markdown: {
     math: true
   },
