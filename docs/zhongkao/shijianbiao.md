@@ -1,5 +1,11 @@
 ## 2024高考
 
+**2024-5-31**
+
+[宜春市中心城区2024年高中阶段学校招生办法](https://mp.weixin.qq.com/s/mQmDyqeerjQRTMAc5IYLdw)
+
+公布各校招生计划、招录工作日程安排
+
 **2024-05-23**
 
 [宜春市2024年高中阶段学校招生考试工作规定](https://mp.weixin.qq.com/s/rIveNHVW34WbZkod1zI8hA)
