@@ -28,16 +28,25 @@
     "text": "宜春中考相关",
     "items": [
       {
-        "text": "2023年宜春市及中心城区招生政策解读",
-        "link": "/zhongkao/2023年宜春市及中心城区招生政策解读"
-      },
-      {
         "text": "宜春中考时间表",
         "link": "/zhongkao/shijianbiao"
       },
       {
         "text": "宜春中考相关数据",
         "link": "/zhongkao/宜春中考相关数据"
+      },
+      {
+        "text": "2024年中考志愿填报",
+        "link": "/zhongkao/2024年中考志愿填报"
+      }
+    ]
+  },
+  {
+    "text": "高中相关",
+    "items": [
+      {
+        "text": "新高考选科",
+        "link": "/zhongkao/新高考选科"
       }
     ]
   }
