@@ -26,9 +26,10 @@ export default defineConfig({
       text: '在 GitHub 上编辑'
     },
 
-    outline: 'deep',
-    outlineTitle: '目录',
-
+    outline: {
+      level: [1, 2, 3], // 指定显示的标题级别
+      title: '目录'
+    },
     search: {provider: 'local'}, // 全局搜索
 
     sidebar: sidebarConfig, // 使用自动生成的侧边栏配置
