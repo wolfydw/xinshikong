@@ -12,7 +12,7 @@ hero:
       link: /新老师入职须知/入职流程
     - theme: brand
       text: 中考相关
-      link: /宜春中考相关/宜春中考相关数据
+      link: /zhongkao/shijianbiao
 
 features:
   - title: 知识
