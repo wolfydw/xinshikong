@@ -8,3 +8,7 @@
 |   天立学校   |  学费30,000，住宿费2,800   |
 
 注：私立学校以上只是基础费用，每年还有生活费、周六日管理费、托管费、兴趣班、校服费等等，每年消费在3-5w是很普遍的
+
+
+
+[2023年秋季宜春中心城区非营利性民办中小学校收费公示 | 宜春市教育体育局 (yichun.gov.cn)](http://jytyj.yichun.gov.cn/ycsjytyj/gggs/202308/8c2429f19af84e198573c56cfa8078b9.shtml?enable_transcoding_confirm=false)
