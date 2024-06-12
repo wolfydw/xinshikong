@@ -6,7 +6,7 @@
 
 [江西长江科技中等专业学校](https://mp.weixin.qq.com/s/UYD-ZbQvaglK9-MeFlfSGA)
 
-[赣西中等职业技术学校](https://mp.weixin.qq.com/s/d2XbKnIoo_Vsw3tfg5TOOg)
+[赣西中等职业技术学校（公办）](https://mp.weixin.qq.com/s/d2XbKnIoo_Vsw3tfg5TOOg)
 
 [江西宜春工业技工学校](https://mp.weixin.qq.com/s/SzOjFP6POh3ILXqbkfIvFQ)
 
