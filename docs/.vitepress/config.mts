@@ -28,7 +28,7 @@ export default defineConfig({
 
     outline: {
       level: [1, 2, 3], // 指定显示的标题级别
-      title: '目录'
+      outlineTitle: '目录'
     },
     search: {provider: 'local'}, // 全局搜索
 
