@@ -12,3 +12,16 @@
 
 
 [2023年秋季宜春中心城区非营利性民办中小学校收费公示 | 宜春市教育体育局 (yichun.gov.cn)](http://jytyj.yichun.gov.cn/ycsjytyj/gggs/202308/8c2429f19af84e198573c56cfa8078b9.shtml?enable_transcoding_confirm=false)
+
+
+
+
+
+不是第一志愿可以上么
+
+
+
+分数不够怎么办
+
+
+
