@@ -32,12 +32,16 @@
         "link": "/zhongkao/shijianbiao"
       },
       {
-        "text": "宜春中考相关数据",
-        "link": "/zhongkao/宜春中考相关数据"
+        "text": "宜春中考招生计划",
+        "link": "/zhongkao/宜春中考招生计划"
       },
       {
         "text": "2024年中考志愿填报",
         "link": "/zhongkao/2024zhiyuan"
+      },
+      {
+        "text": "中心城区各校相关数据",
+        "link": "/zhongkao/中心城区各校相关数据"
       }
     ]
   },

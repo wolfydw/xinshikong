@@ -1,5 +1,7 @@
 # 2024高考
 
+
+
 ## 中职院校招生简章
 
 [宜春经济贸易职业技术学校](https://mp.weixin.qq.com/s/bU-VAsDWWxG7C_61Y7YBeA)
@@ -13,6 +15,12 @@
 ## 民办高中招生简章
 
 [立德高级中学](https://mp.weixin.qq.com/s/XVTgL0Mr01AKX1S2X_6IaA)、昌黎实验学校、[百树学校](https://mp.weixin.qq.com/s/eNC9K-p1Q1_nIwTtBKM_Dg)、[天立学校](https://mp.weixin.qq.com/s/R2trG18gSNsypu4fazXDJw)
+
+### 特产生成绩公示
+
+[2024宜春四中艺术、美术、体育特长生成绩公示](https://mp.weixin.qq.com/s/K-rglCKoEc5QPNCxcaWudQ)
+
+
 
 ## 特长生招生简章
 
