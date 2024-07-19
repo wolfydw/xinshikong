@@ -1,8 +1,36 @@
 # 2024高考
 
+
+
+### [2024年第四批次录取分数线](https://mp.weixin.qq.com/s/jecJj3f2hyyKi17OXh5QMQ)
+
+发布时间：2024-07-18
+
+主要内容：宜春四中分数线为**576分**
+
+
+
+### [2024年第三批次录取分数线](https://mp.weixin.qq.com/s/LDOWLWj6FgwrezX4_3WIcg)
+
+发布时间：2024-07-14
+
+主要内容：宜春九中分数线为**660分**，宜春三中分数线为**635分**，宜春实验中学分数线为**624分**，宜春十中分数线为**603分**
+
+
+
+### [2024年第二批次录取分数线](https://mp.weixin.qq.com/s/E8kV1KZ1LtUPajH4PkVMdQ)
+
+发布时间：2024-07-12
+
+主要内容：宜春中学、宜春一中特长生文化分数线均为**526分**
+
+宜春九中特长生、宜春三中特长生、宜春实验中学特长生、宜春十中特长生文化分数线均为**487分**
+
+
+
 ## [2024年第一批次录取分数线](https://mp.weixin.qq.com/s/t9BrwfX8xzS_bKv0mbA9nw)
 
-发布时间：2023-07-08
+发布时间：2024-07-08
 
 主要内容：宜春中学、宜春一中**统招分数线751**分，**均衡分数线696**分
 
@@ -10,7 +38,17 @@
 
 
 
+### 特长生录取名单公示
+
+[2024宜春市高中艺术体育特长生预录取名单（宜春中学、一中、三中、九中、十中、实验中学）](https://mp.weixin.qq.com/s/fSmMPDI6rbUZMAEVX1y3mw)
+
+[宜春四中2024年特长生拟录取名单公示 ](https://mp.weixin.qq.com/s/JksNllk0Gk2P3t4DxBZISw)
+
+
+
 ### 特产生成绩公示
+
+
 
 [2024宜春四中艺术、美术、体育特长生成绩公示](https://mp.weixin.qq.com/s/K-rglCKoEc5QPNCxcaWudQ)
 
@@ -20,7 +58,7 @@
 
 [宜春中学](https://mp.weixin.qq.com/s/enX3YlXPSWat0460LfTqDA)、[一中](https://mp.weixin.qq.com/s/EwQrBEaCLwKo0V564Vg7sg)、[九中](https://mp.weixin.qq.com/s/WjKeipDrNVFyPPFdB9PTHg)、[三中](https://mp.weixin.qq.com/s/GU5pl0AZkkUkatMEOmuFlg)、[十中](https://mp.weixin.qq.com/s/v7PiQfhZeKVIu_POzy04sg)、[实验中学](https://mp.weixin.qq.com/s/3_6gIPF8Ku4seAq--fLUPQ)、[四中](https://mp.weixin.qq.com/s/mheG52AXdR0uc8xiOTWZsA)
 
-发布时间：2023-06-11
+发布时间：2024-06-11
 
 主要内容：**报名时间**6月19日，**考试时间**6月21日
 
