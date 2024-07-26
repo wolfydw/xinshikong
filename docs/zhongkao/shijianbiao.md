@@ -1,7 +1,5 @@
 # 2024高考
 
-
-
 ### [2024年第四批次录取分数线](https://mp.weixin.qq.com/s/jecJj3f2hyyKi17OXh5QMQ)
 
 发布时间：2024-07-18
@@ -28,7 +26,7 @@
 
 
 
-## [2024年第一批次录取分数线](https://mp.weixin.qq.com/s/t9BrwfX8xzS_bKv0mbA9nw)
+### [2024年第一批次录取分数线](https://mp.weixin.qq.com/s/t9BrwfX8xzS_bKv0mbA9nw)
 
 发布时间：2024-07-08
 
@@ -48,7 +46,7 @@
 
 ### 特产生成绩公示
 
-
+[2024宜春中学、一中、三中、九中、十中、实验中学艺术美术体育特长生成绩公示](https://mp.weixin.qq.com/s/obGtaukdjZacsvdma8dBFg)
 
 [2024宜春四中艺术、美术、体育特长生成绩公示](https://mp.weixin.qq.com/s/K-rglCKoEc5QPNCxcaWudQ)
 
@@ -56,7 +54,7 @@
 
 ## 特长生招生简章
 
-[宜春中学](https://mp.weixin.qq.com/s/enX3YlXPSWat0460LfTqDA)、[一中](https://mp.weixin.qq.com/s/EwQrBEaCLwKo0V564Vg7sg)、[九中](https://mp.weixin.qq.com/s/WjKeipDrNVFyPPFdB9PTHg)、[三中](https://mp.weixin.qq.com/s/GU5pl0AZkkUkatMEOmuFlg)、[十中](https://mp.weixin.qq.com/s/v7PiQfhZeKVIu_POzy04sg)、[实验中学](https://mp.weixin.qq.com/s/3_6gIPF8Ku4seAq--fLUPQ)、[四中](https://mp.weixin.qq.com/s/mheG52AXdR0uc8xiOTWZsA)
+[宜春中学](https://mp.weixin.qq.com/s/enX3YlXPSWat0460LfTqDA)、[一中](https://mp.weixin.qq.com/s/EwQrBEaCLwKo0V564Vg7sg)、[九中](https://mp.weixin.qq.com/s/WjKeipDrNVFyPPFdB9PTHg)、[三中](https://mp.weixin.qq.com/s/GU5pl0AZkkUkatMEOmuFlg)、[十中](https://mp.weixin.qq.com/s/v7PiQfhZeKVIu_POzy04sg)、[实验中学](https://mp.weixin.qq.com/s/3_6gIPF8Ku4seAq--fLUPQ)、[四中](https://mp.weixin.qq.com/s/6pgWB9_qWY009AJqGbw_Wg)
 
 发布时间：2024-06-11
 
@@ -142,12 +140,6 @@
 发布时间：2023-06-30
 
 主要内容：**2023年7月2日9:00**开放查询
-
-## [宜春中学2023年强基实验班招生简章](https://mp.weixin.qq.com/s/zJOdVnw44L3G_Rphi5JJAQ)
-
-发布时间：2023-06-20
-
-主要内容：**报名时间**6月21日8:00-6月22日18:00，**考试时间**6月26日
 
 ## 特长生招生简章
 
