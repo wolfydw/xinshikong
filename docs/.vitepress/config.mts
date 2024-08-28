@@ -36,7 +36,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2000-2024 新时空教育'
+      copyright: 'Copyright © 1998-2024 新时空教育'
     },
 
     socialLinks: [
