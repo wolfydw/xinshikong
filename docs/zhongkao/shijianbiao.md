@@ -54,7 +54,7 @@
 
 ## 特长生招生简章
 
-[宜春中学](https://mp.weixin.qq.com/s/enX3YlXPSWat0460LfTqDA)、[一中](https://mp.weixin.qq.com/s/EwQrBEaCLwKo0V564Vg7sg)、[九中](https://mp.weixin.qq.com/s/WjKeipDrNVFyPPFdB9PTHg)、[三中](https://mp.weixin.qq.com/s/GU5pl0AZkkUkatMEOmuFlg)、[十中](https://mp.weixin.qq.com/s/v7PiQfhZeKVIu_POzy04sg)、[实验中学](https://mp.weixin.qq.com/s/3_6gIPF8Ku4seAq--fLUPQ)、[四中](https://mp.weixin.qq.com/s/6pgWB9_qWY009AJqGbw_Wg)
+[宜春中学](https://mp.weixin.qq.com/s/enX3YlXPSWat0460LfTqDA)、[一中](https://mp.weixin.qq.com/s/EwQrBEaCLwKo0V564Vg7sg)、[九中](https://mp.weixin.qq.com/s/WjKeipDrNVFyPPFdB9PTHg)、[三中](https://mp.weixin.qq.com/s/GU5pl0AZkkUkatMEOmuFlg)、[十中](https://mp.weixin.qq.com/s/v7PiQfhZeKVIu_POzy04sg)、[实验中学](https://mp.weixin.qq.com/s/KMOasucJbIxDClahoepppA)、[四中](https://mp.weixin.qq.com/s/6pgWB9_qWY009AJqGbw_Wg)
 
 发布时间：2024-06-11
 
